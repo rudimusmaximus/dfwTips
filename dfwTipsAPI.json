@@ -1,0 +1,112 @@
+{
+  "heim": {
+    "short_name_key": "heim",
+    "category": "Eat BBQ",
+    "location_name": "Heim Barbecue",
+    "lat": 32.730447,
+    "lng": -97.337353,
+    "rudy_says_tip": "Some say better than Pecan Lodge!",
+    "search_on_google": "https://www.google.com/search?q=Heim+Barbecue",
+    "address": "1109 W Magnolia Ave, Fort Worth, TX 76104"
+  },
+  "meshack": {
+    "short_name_key": "meshack",
+    "category": "Eat BBQ",
+    "location_name": "Meshack's Bar-B-Que",
+    "lat": 32.910433,
+    "lng": -96.627842,
+    "rudy_says_tip": "The real deal. \"if you can't wait, don't order\" When they run out \"you're done.\" Go early for lunch.",
+    "search_on_google": "https://www.google.com/search?q=Meshack%27s+Bar-B-Que",
+    "address": "240 E Avenue B, Garland, TX 75040"
+  },
+  "pecan": {
+    "short_name_key": "pecan",
+    "category": "Eat BBQ",
+    "location_name": "Pecan Lodge",
+    "lat": 32.783625,
+    "lng": -96.783825,
+    "rudy_says_tip": "Plenty, busy, and in Deep Ellum",
+    "search_on_google": "https://www.google.com/search?q=pecan+lodge",
+    "address": "2702 Main St, Dallas, TX 75226"
+  },
+  "tx_t": {
+    "short_name_key": "tx_t",
+    "category": "Watch a Movie",
+    "location_name": "Texas Theatre",
+    "lat": 32.743548,
+    "lng": -96.825972,
+    "rudy_says_tip": "Dallas Landmark",
+    "search_on_google": "https://www.google.com/search?q=texas+theatre",
+    "address": "231 W Jefferson Blvd, Dallas, TX 75208"
+  },
+  "angelika": {
+    "short_name_key": "angelika",
+    "category": "Watch a Movie",
+    "location_name": "Angelika Film Center Dallas",
+    "lat": 32.83826,
+    "lng": -96.775416,
+    "rudy_says_tip": "Often Indie Films and at Mockingbird Station",
+    "search_on_google": "https://www.google.com/search?q=angelika+dallas",
+    "address": "5321 E Mockingbird Ln, Dallas, TX 75206"
+  },
+  "alamo_lh": {
+    "short_name_key": "alamo_lh",
+    "category": "Watch a Movie",
+    "location_name": "Alamo Drafthouse Cinema - Lake Highlands",
+    "lat": 32.867366,
+    "lng": -96.741538,
+    "rudy_says_tip": "People like it",
+    "search_on_google": "https://www.google.com/search?q=Alamo+Drafthouse+Cinema+-+Lake+Highlands",
+    "address": "6770 Abrams Rd, Dallas, TX 75231"
+  },
+  "bass": {
+    "short_name_key": "bass",
+    "category": "Entertainment",
+    "location_name": "Bass Performance Hall",
+    "lat": 32.754797,
+    "lng": -97.329758,
+    "rudy_says_tip": "Inspiring building and sound. Great downtown Ft. Worth location",
+    "search_on_google": "https://www.google.com/search?q=bass+hall",
+    "address": "525 Commerce St, Fort Worth, TX 76102"
+  },
+  "kessler": {
+    "short_name_key": "kessler",
+    "category": "Entertainment",
+    "location_name": "The Kessler Theater",
+    "lat": 32.749338,
+    "lng": -96.84265,
+    "rudy_says_tip": "Surprisingly good sound in an intimate setting.",
+    "search_on_google": "https://www.google.com/search?q=the+kessler+theatre",
+    "address": "1230 W Davis St, Dallas, TX 75208"
+  },
+  "mudsmith_lg": {
+    "short_name_key": "mudsmith_lg",
+    "category": "Entertainment",
+    "location_name": "Mudsmith Coffee - LOWER GREENVILLE",
+    "lat": 32.815296,
+    "lng": -96.769892,
+    "rudy_says_tip": "Get stuff done or chat, coffee or beer. Large seating area.",
+    "search_on_google": "https://www.google.com/search?q=mudsmithcoffee+lower+greenville",
+    "address": "2114 Greenville Ave, Dallas, TX 75206"
+  },
+  "dfw": {
+    "short_name_key": "dfw",
+    "category": "Where's The Airport",
+    "location_name": "DFW - Dallas/Fort Worth International Airport",
+    "lat": 32.890457,
+    "lng": -97.035782,
+    "rudy_says_tip": "Bigger. American and others. Cetral between Dallas and Fort Worth",
+    "search_on_google": "https://www.google.com/search?q=Dallas%2FFort+Worth+International+Airport",
+    "address": "2400 Aviation Dr, DFW Airport, TX 75261"
+  },
+  "dal": {
+    "short_name_key": "dal",
+    "category": "Where's The Airport",
+    "location_name": "DAL - Dallas Love Field",
+    "lat": 32.844776,
+    "lng": -96.849734,
+    "rudy_says_tip": "Smaller. Faster in and out. Southwest and others. Closer to Dallas downtown.",
+    "search_on_google": "https://www.google.com/search?q=Dallas+Love+Field",
+    "address": "8008 Herb Kelleher Way, Dallas, TX 75235"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dfwTips",
+  "version": "0.1.0",
+  "private": true,
+  "description": "JSON API from GitHub Pages",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudimusmaximus/dfwTips.git"
+  },
+  "author": "Raul Flores jr \"rudy\"",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rudimusmaximus/dfwTips/issues"
+  },
+  "homepage": "https://github.com/rudimusmaximus/dfwTips#readme",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}
