@@ -8,8 +8,30 @@ It's intended to feed a single page React app, but can be used for any reason.
 
 Cheers!
 
-# To use
-If using a copy of `basicBrowserClient.js`
+# To use  
+## Fetch with linked promises
+This approach based on [this article](https://developers.google.com/web/updates/2015/03/introduction-to-fetch).  
+### Required Code  
+see `fetch-basicBrowswerClient.js`
+
+### Example Usage  
+const DFW_TIPS_API_URL = 'https://rudimusmaximus.github.io/dfwTips/dfwTipsAPI.json'
+
+```js
+fetch(DFW_TIPS_API_URL)
+  .then(status)
+  .then(json)
+  .then(function(data) {
+    console.log('Request succeeded with JSON response', data);
+  }).catch(function(error) {
+    console.log('Request failed', error);
+  });
+```
+## XMLHttpRequest  
+### Required Code  
+If using a copy of `XMLHttpRequest-basicBrowserClient.js`  
+
+### Example Usage  
 
 ```js
 const DFW_TIPS_API_URL = 'https://rudimusmaximus.github.io/dfwTips/dfwTipsAPI.json'
