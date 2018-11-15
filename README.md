@@ -12,7 +12,7 @@ Cheers!
 If using a copy of `basicBrowserClient.js`
 
 ```js
-const DFW_TIPS_API_URL = 'https://github.com/rudimusmaximus/dfwTips/dfwTipsAPI.json'
+const DFW_TIPS_API_URL = 'https://rudimusmaximus.github.io/dfwTips/dfwTipsAPI.json'
 
 hitApi(DFW_TIPS_API_URL, function(error, data) {
   if (error) {
