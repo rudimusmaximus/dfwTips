@@ -15,17 +15,15 @@ This approach based on [this article](https://developers.google.com/web/updates/
 see `fetch-basicBrowswerClient.js`
 
 ### Example Usage  
-const DFW_TIPS_API_URL = 'https://rudimusmaximus.github.io/dfwTips/dfwTipsAPI.json'
-
 ```js
+const DFW_TIPS_API_URL =
+'https://rudimusmaximus.github.io/dfwTips/dfwTipsAPI.json';
+
 fetch(DFW_TIPS_API_URL)
   .then(status)
   .then(json)
-  .then(function(data) {
-    console.log('Request succeeded with JSON response', data);
-  }).catch(function(error) {
-    console.log('Request failed', error);
-  });
+  .then(  data => console.log(`Request succeeded with JSON response: `, data))
+  .catch(error => console.log(`Request failed: `, error));
 ```
 ## XMLHttpRequest  
 ### Required Code  
