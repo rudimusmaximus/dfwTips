@@ -61,7 +61,7 @@
   },
   "bass": {
     "short_name_key": "bass",
-    "category": "Entertainment",
+    "category": "Live Entertainment",
     "location_name": "Bass Performance Hall",
     "lat": 32.754797,
     "lng": -97.329758,
@@ -71,7 +71,7 @@
   },
   "kessler": {
     "short_name_key": "kessler",
-    "category": "Entertainment",
+    "category": "Live Entertainment",
     "location_name": "The Kessler Theater",
     "lat": 32.749338,
     "lng": -96.84265,
@@ -81,7 +81,7 @@
   },
   "mudsmith_lg": {
     "short_name_key": "mudsmith_lg",
-    "category": "Entertainment",
+    "category": "Live Entertainment",
     "location_name": "Mudsmith Coffee - LOWER GREENVILLE",
     "lat": 32.815296,
     "lng": -96.769892,
