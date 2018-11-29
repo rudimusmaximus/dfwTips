@@ -1,7 +1,9 @@
-[{
+[
+  {
     "short_name_key": "heim",
-    "category": "Eat BBQ",
     "location_name": "Heim Barbecue",
+    "short_cat_key": "bbq",
+    "category": "Eat BBQ",
     "lat": 32.730447,
     "lng": -97.337353,
     "rudy_says_tip": "Some say better than Pecan Lodge!",
@@ -10,8 +12,9 @@
   },
   {
     "short_name_key": "meshack",
-    "category": "Eat BBQ",
     "location_name": "Meshack's Bar-B-Que",
+    "short_cat_key": "bbq",
+    "category": "Eat BBQ",
     "lat": 32.910433,
     "lng": -96.627842,
     "rudy_says_tip": "The real deal. \"if you can't wait, don't order\" When they run out \"you're done.\" Go early for lunch.",
@@ -20,8 +23,9 @@
   },
   {
     "short_name_key": "pecan",
-    "category": "Eat BBQ",
     "location_name": "Pecan Lodge",
+    "short_cat_key": "bbq",
+    "category": "Eat BBQ",
     "lat": 32.783625,
     "lng": -96.783825,
     "rudy_says_tip": "Plenty, busy, and in Deep Ellum",
@@ -30,8 +34,9 @@
   },
   {
     "short_name_key": "tx_t",
-    "category": "Watch a Movie",
     "location_name": "Texas Theatre",
+    "short_cat_key": "mov",
+    "category": "Watch a Movie",
     "lat": 32.743548,
     "lng": -96.825972,
     "rudy_says_tip": "Dallas Landmark",
@@ -40,8 +45,9 @@
   },
   {
     "short_name_key": "angelika",
-    "category": "Watch a Movie",
     "location_name": "Angelika Film Center Dallas",
+    "short_cat_key": "mov",
+    "category": "Watch a Movie",
     "lat": 32.83826,
     "lng": -96.775416,
     "rudy_says_tip": "Often Indie Films and at Mockingbird Station",
@@ -50,8 +56,9 @@
   },
   {
     "short_name_key": "alamo_lh",
-    "category": "Watch a Movie",
     "location_name": "Alamo Drafthouse Cinema - Lake Highlands",
+    "short_cat_key": "mov",
+    "category": "Watch a Movie",
     "lat": 32.867366,
     "lng": -96.741538,
     "rudy_says_tip": "People like it",
@@ -60,8 +67,9 @@
   },
   {
     "short_name_key": "bass",
-    "category": "Live Entertainment",
     "location_name": "Bass Performance Hall",
+    "short_cat_key": "liv",
+    "category": "Live Entertainment",
     "lat": 32.754797,
     "lng": -97.329758,
     "rudy_says_tip": "Inspiring building and sound. Great downtown Ft. Worth location",
@@ -70,8 +78,9 @@
   },
   {
     "short_name_key": "kessler",
-    "category": "Live Entertainment",
     "location_name": "The Kessler Theater",
+    "short_cat_key": "liv",
+    "category": "Live Entertainment",
     "lat": 32.749338,
     "lng": -96.84265,
     "rudy_says_tip": "Surprisingly good sound in an intimate setting.",
@@ -80,8 +89,9 @@
   },
   {
     "short_name_key": "mudsmith_lg",
-    "category": "Live Entertainment",
     "location_name": "Mudsmith Coffee - LOWER GREENVILLE",
+    "short_cat_key": "liv",
+    "category": "Live Entertainment",
     "lat": 32.815296,
     "lng": -96.769892,
     "rudy_says_tip": "Get stuff done or chat, coffee or beer. Large seating area.",
@@ -90,8 +100,9 @@
   },
   {
     "short_name_key": "dfw",
-    "category": "Where's The Airport",
     "location_name": "DFW - Dallas/Fort Worth International Airport",
+    "short_cat_key": "air",
+    "category": "Where's The Airport",
     "lat": 32.890457,
     "lng": -97.035782,
     "rudy_says_tip": "Bigger. American and others. Cetral between Dallas and Fort Worth",
@@ -100,8 +111,9 @@
   },
   {
     "short_name_key": "dal",
-    "category": "Where's The Airport",
     "location_name": "DAL - Dallas Love Field",
+    "short_cat_key": "air",
+    "category": "Where's The Airport",
     "lat": 32.844776,
     "lng": -96.849734,
     "rudy_says_tip": "Smaller. Faster in and out. Southwest and others. Closer to Dallas downtown.",
