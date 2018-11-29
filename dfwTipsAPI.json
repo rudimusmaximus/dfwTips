@@ -1,5 +1,4 @@
-{
-  "heim": {
+[{
     "short_name_key": "heim",
     "category": "Eat BBQ",
     "location_name": "Heim Barbecue",
@@ -9,7 +8,7 @@
     "search_on_google": "https://www.google.com/search?q=Heim+Barbecue",
     "address": "1109 W Magnolia Ave, Fort Worth, TX 76104"
   },
-  "meshack": {
+  {
     "short_name_key": "meshack",
     "category": "Eat BBQ",
     "location_name": "Meshack's Bar-B-Que",
@@ -19,7 +18,7 @@
     "search_on_google": "https://www.google.com/search?q=Meshack%27s+Bar-B-Que",
     "address": "240 E Avenue B, Garland, TX 75040"
   },
-  "pecan": {
+  {
     "short_name_key": "pecan",
     "category": "Eat BBQ",
     "location_name": "Pecan Lodge",
@@ -29,7 +28,7 @@
     "search_on_google": "https://www.google.com/search?q=pecan+lodge",
     "address": "2702 Main St, Dallas, TX 75226"
   },
-  "tx_t": {
+  {
     "short_name_key": "tx_t",
     "category": "Watch a Movie",
     "location_name": "Texas Theatre",
@@ -39,7 +38,7 @@
     "search_on_google": "https://www.google.com/search?q=texas+theatre",
     "address": "231 W Jefferson Blvd, Dallas, TX 75208"
   },
-  "angelika": {
+  {
     "short_name_key": "angelika",
     "category": "Watch a Movie",
     "location_name": "Angelika Film Center Dallas",
@@ -49,7 +48,7 @@
     "search_on_google": "https://www.google.com/search?q=angelika+dallas",
     "address": "5321 E Mockingbird Ln, Dallas, TX 75206"
   },
-  "alamo_lh": {
+  {
     "short_name_key": "alamo_lh",
     "category": "Watch a Movie",
     "location_name": "Alamo Drafthouse Cinema - Lake Highlands",
@@ -59,7 +58,7 @@
     "search_on_google": "https://www.google.com/search?q=Alamo+Drafthouse+Cinema+-+Lake+Highlands",
     "address": "6770 Abrams Rd, Dallas, TX 75231"
   },
-  "bass": {
+  {
     "short_name_key": "bass",
     "category": "Live Entertainment",
     "location_name": "Bass Performance Hall",
@@ -69,7 +68,7 @@
     "search_on_google": "https://www.google.com/search?q=bass+hall",
     "address": "525 Commerce St, Fort Worth, TX 76102"
   },
-  "kessler": {
+  {
     "short_name_key": "kessler",
     "category": "Live Entertainment",
     "location_name": "The Kessler Theater",
@@ -79,7 +78,7 @@
     "search_on_google": "https://www.google.com/search?q=the+kessler+theatre",
     "address": "1230 W Davis St, Dallas, TX 75208"
   },
-  "mudsmith_lg": {
+  {
     "short_name_key": "mudsmith_lg",
     "category": "Live Entertainment",
     "location_name": "Mudsmith Coffee - LOWER GREENVILLE",
@@ -89,7 +88,7 @@
     "search_on_google": "https://www.google.com/search?q=mudsmithcoffee+lower+greenville",
     "address": "2114 Greenville Ave, Dallas, TX 75206"
   },
-  "dfw": {
+  {
     "short_name_key": "dfw",
     "category": "Where's The Airport",
     "location_name": "DFW - Dallas/Fort Worth International Airport",
@@ -99,7 +98,7 @@
     "search_on_google": "https://www.google.com/search?q=Dallas%2FFort+Worth+International+Airport",
     "address": "2400 Aviation Dr, DFW Airport, TX 75261"
   },
-  "dal": {
+  {
     "short_name_key": "dal",
     "category": "Where's The Airport",
     "location_name": "DAL - Dallas Love Field",
@@ -109,4 +108,4 @@
     "search_on_google": "https://www.google.com/search?q=Dallas+Love+Field",
     "address": "8008 Herb Kelleher Way, Dallas, TX 75235"
   }
-}
+]
